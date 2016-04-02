@@ -1,7 +1,7 @@
 {
-  "name": "react-es6-googleanalyticsapi-webpack",
+  "name": "react-es6-googleanalytics_reporting-api",
   "version": "1.0.0",
-  "description": "Simple project using react to show how to get google analytics data with the gapi javascript lib.",
+  "description": "Simple project using react to show how to get google analytics reporting data with the gapi javascript lib.",
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Felixaverlant/react-es6-googleanalyticsapi-webpack.git"
+    "url": "https://github.com/Felixaverlant/react-es6-googleanalytics_reporting-api.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   "author": "Felix Averlant",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Felixaverlant/react-es6-googleanalyticsapi-webpack/issues"
+    "url": "https://github.com/Felixaverlant/react-es6-googleanalytics_reporting-api/issues"
   },
-  "homepage": "https://github.com/Felixaverlant/react-es6-googleanalyticsapi-webpack",
+  "homepage": "https://github.com/Felixaverlant/react-es6-googleanalytics_reporting-api",
   "dependencies": {
     "react": "^0.14.5",
     "react-dom": "^0.14.5",
